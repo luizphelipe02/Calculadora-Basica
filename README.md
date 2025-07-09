@@ -20,7 +20,7 @@ Projeto de uma calculadora básica feita com **HTML**, **CSS** e **JavaScript**,
 ## 💻 Demonstração
 
 Acesse o projeto online aqui:  
-👉 [Clique para abrir](https://SEU-USUARIO.github.io/calculadora)
+👉 [Clique para abrir](https://luizphelipe02.github.io/Calculadora-Basica/)
 
 ## 📸 Screenshot
 
